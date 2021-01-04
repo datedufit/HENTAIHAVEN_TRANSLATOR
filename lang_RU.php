@@ -19,6 +19,10 @@
  * BECOME 
  * \c[1]Kaori Saeki\c<br>translate<br>translate
  *
+ * EXAMPLE:
+ * Let meet her at \c[1]Teacher Office\c at \c[1]Midday\c
+ * BECOME
+ * translate \c[1] translate \c translate \c[1] translate \c
 */
 
 
