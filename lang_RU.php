@@ -1,4 +1,27 @@
 <?php
+
+
+/*
+ * NOTE TO TRANSLATORS.
+ * NEVER PUT " INSIDE A TRANSLATE TEXT.
+ * KEEP ALL THE \n or <br>
+ * ONLY TRANSLATE THE TEXT INSIDE \c[1] TRANSLATE TEXT \c
+ *
+ *
+ * EXAMPLE:
+ * $translators["Girl<br>I'm sorry."] = "";
+ * BECOME 
+ * $translators["Girl<br>I'm sorry."] = "translate<br>translate....";
+ * 
+ *
+ * EXAMPLE:
+ * \c[1]Kaori Saeki\c<br>Their magic was simple at first.<br>But...
+ * BECOME 
+ * \c[1]Kaori Saeki\c<br>translate<br>translate
+ *
+*/
+
+
 $translators["Novice Hat"] = "Шляпа новичка";
 $translators["Novice Cloth"] = "Ткань для новичков";
 $translators["Novice Ring"] = "Кольцо новичка";
