@@ -1,5 +1,5 @@
 <?php
-$translators["Novice Hat"] = "";
+$translators["Novice Hat"] = "Шляпа новичка";
 $translators["Novice Cloth"] = "";
 $translators["Novice Ring"] = "";
 $translators["Novice Necklace"] = "";
