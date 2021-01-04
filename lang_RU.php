@@ -2,7 +2,7 @@
 $translators["Novice Hat"] = "Шляпа новичка";
 $translators["Novice Cloth"] = "Ткань для новичков";
 $translators["Novice Ring"] = "Кольцо новичка";
-$translators["Novice Necklace"] = "";
+$translators["Novice Necklace"] = "Ожерелье новичка";
 $translators["Novice Garment"] = "";
 $translators["Novice Shoes"] = "";
 $translators["SuperNovice Hat"] = "";
