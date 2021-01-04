@@ -1,6 +1,6 @@
 <?php
 $translators["Novice Hat"] = "Шляпа новичка";
-$translators["Novice Cloth"] = "";
+$translators["Novice Cloth"] = "Ткань для новичков";
 $translators["Novice Ring"] = "";
 $translators["Novice Necklace"] = "";
 $translators["Novice Garment"] = "";
