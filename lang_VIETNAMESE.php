@@ -26,12 +26,12 @@
 */
 
 
-$translators["Novice Hat"] = "";
-$translators["Novice Cloth"] = "";
-$translators["Novice Ring"] = "";
+$translators["Novice Hat"] = "Mũ tập sự";
+$translators["Novice Cloth"] = "Áo tập sự";
+$translators["Novice Ring"] = "Nhẫn tập sự";
 $translators["Novice Necklace"] = "";
-$translators["Novice Garment"] = "";
-$translators["Novice Shoes"] = "";
+$translators["Novice Garment"] = "Áo choàng tập sự";
+$translators["Novice Shoes"] = "Giày tập sự";
 $translators["SuperNovice Hat"] = "";
 $translators["SuperNovice Cloth"] = "";
 $translators["SuperNovice Ring"] = "";
@@ -48,8 +48,8 @@ $translators["Valkyrie Ring"] = "";
 $translators["Valkyrie Necklace"] = "";
 $translators["Valkyrie Garment"] = "";
 $translators["Valkyrie Shoes"] = "";
-$translators["Fire Resistance + 10%"] = "";
-$translators["Water Resistance + 10%"] = "";
+$translators["Fire Resistance + 10%"] = "Kháng lửa + 10%";
+$translators["Water Resistance + 10%"] = "Kháng nước + 10%";
 $translators["Earth Resistance + 10%"] = "";
 $translators["Wind Resistance + 10%"] = "";
 $translators["Fire Resistance + 15%"] = "";
@@ -57,11 +57,11 @@ $translators["Water Resistance + 15%"] = "";
 $translators["Earth Resistance + 15%"] = "";
 $translators["Wind Resistance + 15%"] = "";
 $translators["Resist Poison,Blind,Silence."] = "";
-$translators["MORNING"] = "";
-$translators["MIDDAY"] = "";
-$translators["EVENING"] = "";
-$translators["NIGHT"] = "";
-$translators["MIDNIGHT"] = "";
+$translators["MORNING"] = "BUỔI SÁNG";
+$translators["MIDDAY"] = "BUỔI TRƯA";
+$translators["EVENING"] = "BUỔI CHIỀU";
+$translators["NIGHT"] = "BUỔI TỐI";
+$translators["MIDNIGHT"] = "BĐÊM";
 $translators["Do you want to eat your lunch pack?"] = "";
 $translators["You eating your lunch"] = "";
 $translators["You should eat to keep yourself healthy."] = "";
