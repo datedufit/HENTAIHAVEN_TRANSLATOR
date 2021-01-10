@@ -1005,6 +1005,7 @@ $translators["Man1. Hehe. we have our fun. let leave."] = "";
 $translators["Are you ok?"] = "";
 $translators["Hmm. i detect there some divine power inside her."] = "";
 $translators["Men WC"] = "";
+$translators["Man<br>Hehe Girl.<br>Let have a good time together."] = "";
 $translators["This is my friend \c[3]Yoshio Mitsuki\c[0]."] = "";
 $translators["\c[3]Yoshio Mitsuki\c[0]<br>The cursed boy is my friend. I know him for a long time"] = "";
 $translators["\c[3]Yoshio Mitsuki\c[0]<br>I invite him to this shop to work in hope he could find another hobby to forget about the curse."] = "";
