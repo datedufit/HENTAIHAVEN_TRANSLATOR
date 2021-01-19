@@ -26,22 +26,22 @@
 */
 
 
-$translators["Novice Hat"] = "";
-$translators["Novice Cloth"] = "";
-$translators["Novice Ring"] = "";
-$translators["Novice Necklace"] = "";
-$translators["Novice Garment"] = "";
-$translators["Novice Shoes"] = "";
-$translators["SuperNovice Hat"] = "";
-$translators["SuperNovice Cloth"] = "";
-$translators["SuperNovice Ring"] = "";
-$translators["SuperNovice Necklace"] = "";
-$translators["SuperNovice Garment"] = "";
-$translators["SuperNovice Shoes"] = "";
-$translators["Fire Resistance + 5%"] = "";
-$translators["Water Resistance + 5%"] = "";
-$translators["Earth Resistance + 5%"] = "";
-$translators["Wind Resistance + 5%"] = "";
+$translators["Novice Hat"] = "Шляпа Новичка";
+$translators["Novice Cloth"] = "Ткань Новичка";
+$translators["Novice Ring"] = "Кольцо Новичка";
+$translators["Novice Necklace"] = "Ожерелье Новичка";
+$translators["Novice Garment"] = "Одеяние Новичка";
+$translators["Novice Shoes"] = "Ботинки Новичка";
+$translators["SuperNovice Hat"] = "Супершляпа Новичка";
+$translators["SuperNovice Cloth"] = "Суперткань Новичка";
+$translators["SuperNovice Ring"] = "Суперкольцо Новичка";
+$translators["SuperNovice Necklace"] = "Суперожерелье Новичка";
+$translators["SuperNovice Garment"] = "Суперодеяние Новичка";
+$translators["SuperNovice Shoes"] = "Суперботинки Новичка";
+$translators["Fire Resistance + 5%"] = "Сопротивление Огню + 5%";
+$translators["Water Resistance + 5%"] = "Сопротивление Воде + 5%";
+$translators["Earth Resistance + 5%"] = "Сопротивление Земле + 5%";
+$translators["Wind Resistance + 5%"] = "Сопротивление Ветру + 5%";
 $translators["Valkyrie Hat"] = "";
 $translators["Valkyrie Cloth"] = "";
 $translators["Valkyrie Ring"] = "";
