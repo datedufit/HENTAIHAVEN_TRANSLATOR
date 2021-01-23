@@ -105,6 +105,7 @@ $translators["Enjoy 100+ 2D/3D RPG game without download or install.<br>Active P
 $translators["You will transfer to premium hentaihaven everytime you start the game with internet."] = "";
 $translators["You could check your subscribe time by tap to the computer at your bedroom."] = "";
 $translators["If you have any problem please contact me at admin@hentaihavenz.com"] = "";
+$translators["PROCESSING..."] = "";
 $translators["Too bad. Next time then."] = "";
 $translators["This is a work of fiction. Names, characters, businesses, places, events, locales, and incidents are either the products of the author's imagination or used in a fictitious manner."] = "";
 $translators["Any resemblance to actual persons, living or dead, or actual events is purely coincidental."] = "";
@@ -445,6 +446,7 @@ $translators["We lost them"] = "";
 $translators["Let hurry and go to the hotel."] = "";
 $translators["Wakatsuki Risa<br>Aww.I want to masturbase right now"] = "";
 $translators["Wakatsuki Risa<br>I need to go to the toilet."] = "";
+$translators["I don't have anything to talk to you..."] = "";
 $translators["It here !"] = "";
 $translators["Let pick a seat."] = "";
 $translators["...<br>.....<br>......."] = "";
