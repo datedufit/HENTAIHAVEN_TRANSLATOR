@@ -2729,7 +2729,6 @@ $translators["Holy Light "] = "";
 $translators["ULTIMATE SKILL"] = "";
 $translators["Hits every Enemy in a 3x3 area around the target for an MATK of (70+10*SkillLV)% using Ghost Element"] = "";
 $translators["ULTIMATE ART: Cut 9 times"] = "";
-$translators["Cursor2"] = "";
 $translators["Level"] = "";
 $translators["Lv"] = "";
 $translators["HP"] = "";
